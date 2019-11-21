@@ -1,0 +1,812 @@
+DATE: 2019-04-15 12:11:23
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 10_0
+    [language] => ru
+    [amount] => 379050
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=10
+    [description] => 
+    [currency] => 643
+    [userName] => 
+    [password] => 
+    [CMS] => Bitrix 18.1.8
+    [jsonParams] => {"CMS":"Bitrix 18.1.8","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=10_0&language=ru&amount=379050&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D10&description=&currency=643&userName=&password=&CMS=Bitrix+18.1.8&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.1.8%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [errorCode] => 5
+    [errorMessage] => Доступ запрещён
+)
+
+
+
+DATE: 2019-04-15 12:13:59
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 10_0
+    [language] => ru
+    [amount] => 379050
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=10
+    [description] => 
+    [currency] => 643
+    [userName] => 
+    [password] => 
+    [CMS] => Bitrix 18.1.8
+    [jsonParams] => {"CMS":"Bitrix 18.1.8","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=10_0&language=ru&amount=379050&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D10&description=&currency=643&userName=&password=&CMS=Bitrix+18.1.8&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.1.8%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [errorCode] => 5
+    [errorMessage] => Доступ запрещён
+)
+
+
+
+DATE: 2019-04-15 12:15:01
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 10_0
+    [language] => ru
+    [amount] => 379050
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=10
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => Password*1
+    [CMS] => Bitrix 18.1.8
+    [jsonParams] => {"CMS":"Bitrix 18.1.8","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=10_0&language=ru&amount=379050&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D10&description=&currency=643&userName=warmhouse-api&password=Password%2A1&CMS=Bitrix+18.1.8&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.1.8%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [errorCode] => 5
+    [errorMessage] => Пользователь должен сменить свой пароль
+)
+
+
+
+DATE: 2019-04-15 12:19:11
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 10_0
+    [language] => ru
+    [amount] => 379050
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=10
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.1.8
+    [jsonParams] => {"CMS":"Bitrix 18.1.8","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=10_0&language=ru&amount=379050&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D10&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.1.8&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.1.8%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 5e9d540b-55f1-791f-9516-e50e01eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe/payment_ru.html?mdOrder=5e9d540b-55f1-791f-9516-e50e01eabcf2
+)
+
+
+
+DATE: 2019-04-15 12:19:22
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 10_1
+    [language] => ru
+    [amount] => 379050
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=10
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.1.8
+    [jsonParams] => {"CMS":"Bitrix 18.1.8","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=10_1&language=ru&amount=379050&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D10&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.1.8&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.1.8%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 7373f41e-e7b9-71f3-90df-cbf601eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe/payment_ru.html?mdOrder=7373f41e-e7b9-71f3-90df-cbf601eabcf2
+)
+
+
+
+DATE: 2019-04-15 12:21:44
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 10_2
+    [language] => ru
+    [amount] => 379050
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=10
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.1.8
+    [jsonParams] => {"CMS":"Bitrix 18.1.8","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=10_2&language=ru&amount=379050&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D10&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.1.8&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.1.8%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 22106618-861d-739d-94f1-fce501eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe/payment_ru.html?mdOrder=22106618-861d-739d-94f1-fce501eabcf2
+)
+
+
+
+DATE: 2019-04-15 15:39:40
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 11_0
+    [language] => ru
+    [amount] => 379050
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=11
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.1.8
+    [jsonParams] => {"CMS":"Bitrix 18.1.8","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=11_0&language=ru&amount=379050&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D11&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.1.8&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.1.8%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => c7795698-c146-7ad5-ae44-d05b01eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe/payment_ru.html?mdOrder=c7795698-c146-7ad5-ae44-d05b01eabcf2
+)
+
+
+
+DATE: 2019-04-15 15:54:55
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 12_0
+    [language] => ru
+    [amount] => 95
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=12
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.1.8
+    [jsonParams] => {"CMS":"Bitrix 18.1.8","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=12_0&language=ru&amount=95&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D12&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.1.8&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.1.8%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 15f576ff-881d-7fc2-ae69-bf5101eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe/payment_ru.html?mdOrder=15f576ff-881d-7fc2-ae69-bf5101eabcf2
+)
+
+
+
+DATE: 2019-04-15 15:56:19
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [orderId] => 15f576ff-881d-7fc2-ae69-bf5101eabcf2
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.1.8
+    [jsonParams] => {"CMS":"Bitrix 18.1.8","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderId=15f576ff-881d-7fc2-ae69-bf5101eabcf2&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.1.8&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.1.8%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [errorCode] => 0
+    [errorMessage] => Успешно
+    [orderNumber] => 12_0
+    [orderStatus] => 2
+    [actionCode] => 0
+    [actionCodeDescription] => 
+    [amount] => 95
+    [currency] => 643
+    [date] => 1555332894999
+    [orderDescription] => 
+    [ip] => 109.194.1.141
+    [merchantOrderParams] => Array
+        (
+            [0] => Array
+                (
+                    [name] => CMS
+                    [value] => Bitrix 18.1.8
+                )
+
+            [1] => Array
+                (
+                    [name] => Module-Version
+                    [value] => 3.2.4
+                )
+
+        )
+
+    [attributes] => Array
+        (
+            [0] => Array
+                (
+                    [name] => mdOrder
+                    [value] => 15f576ff-881d-7fc2-ae69-bf5101eabcf2
+                )
+
+        )
+
+    [cardAuthInfo] => Array
+        (
+            [expiration] => 201905
+            [cardholderName] => CARDHOLDER NAME
+            [approvalCode] => 234232
+            [pan] => 427608XXXXXX8050
+        )
+
+    [authDateTime] => 1555332977013
+    [terminalId] => 21062623
+    [authRefNum] => 910551383968
+    [paymentAmountInfo] => Array
+        (
+            [paymentState] => DEPOSITED
+            [approvedAmount] => 95
+            [depositedAmount] => 95
+            [refundedAmount] => 0
+        )
+
+    [bankInfo] => Array
+        (
+            [bankName] => Sberbank Of Russia
+            [bankCountryCode] => RU
+            [bankCountryName] => Россия
+        )
+
+)
+
+
+
+DATE: 2019-05-03 12:28:34
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 13_0
+    [language] => ru
+    [amount] => 1634000
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=13
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.1.8
+    [jsonParams] => {"CMS":"Bitrix 18.1.8","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=13_0&language=ru&amount=1634000&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D13&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.1.8&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.1.8%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 147f4fbe-f231-7cbd-ab2c-027a01eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe/payment_ru.html?mdOrder=147f4fbe-f231-7cbd-ab2c-027a01eabcf2
+)
+
+
+
+DATE: 2019-05-31 11:13:15
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 10_3
+    [language] => ru
+    [amount] => 379050
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=10
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.5.180
+    [jsonParams] => {"CMS":"Bitrix 18.5.180","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=10_3&language=ru&amount=379050&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D10&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.5.180&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.5.180%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => d8971bf7-06ba-71a6-bb77-092001eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe/payment_ru.html?mdOrder=d8971bf7-06ba-71a6-bb77-092001eabcf2
+)
+
+
+
+DATE: 2019-08-20 10:45:17
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 16_0
+    [language] => ru
+    [amount] => 89965
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=16
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.5.400
+    [jsonParams] => {"CMS":"Bitrix 18.5.400","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=16_0&language=ru&amount=89965&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D16&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.5.400&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.5.400%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 6dc9b9f1-b747-7457-8ccf-939e01eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe_id/payment_ru.html?mdOrder=6dc9b9f1-b747-7457-8ccf-939e01eabcf2
+)
+
+
+
+DATE: 2019-08-20 10:48:13
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 17_0
+    [language] => ru
+    [amount] => 15960
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=17
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.5.400
+    [jsonParams] => {"CMS":"Bitrix 18.5.400","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=17_0&language=ru&amount=15960&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D17&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.5.400&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.5.400%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => cf319a88-c9f3-7290-b655-964701eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe_id/payment_ru.html?mdOrder=cf319a88-c9f3-7290-b655-964701eabcf2
+)
+
+
+
+DATE: 2019-09-25 16:11:52
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 10_4
+    [language] => ru
+    [amount] => 379050
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=10
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.5.400
+    [jsonParams] => {"CMS":"Bitrix 18.5.400","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=10_4&language=ru&amount=379050&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D10&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.5.400&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.5.400%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 7201ba38-af5f-7c6d-9299-5efd01eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe_id/payment_ru.html?mdOrder=7201ba38-af5f-7c6d-9299-5efd01eabcf2
+)
+
+
+
+DATE: 2019-10-31 20:25:50
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 53_0
+    [language] => ru
+    [amount] => 6412500
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=53
+    [description] => НОВЫЙ ЗАКАЗ 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.5.400
+    [jsonParams] => {"CMS":"Bitrix 18.5.400","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=53_0&language=ru&amount=6412500&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D53&description=%D0%9D%D0%9E%D0%92%D0%AB%D0%99+%D0%97%D0%90%D0%9A%D0%90%D0%97+&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.5.400&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.5.400%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 3bbd30c1-a5cf-7e62-bf79-b2c801eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe_id/payment_ru.html?mdOrder=3bbd30c1-a5cf-7e62-bf79-b2c801eabcf2
+)
+
+
+
+DATE: 2019-10-31 20:26:13
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 53_1
+    [language] => ru
+    [amount] => 6412500
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=53
+    [description] => НОВЫЙ ЗАКАЗ 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.5.400
+    [jsonParams] => {"CMS":"Bitrix 18.5.400","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=53_1&language=ru&amount=6412500&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D53&description=%D0%9D%D0%9E%D0%92%D0%AB%D0%99+%D0%97%D0%90%D0%9A%D0%90%D0%97+&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.5.400&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.5.400%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 7d8ed83e-b55e-7fb8-89d7-2f6201eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe_id/payment_ru.html?mdOrder=7d8ed83e-b55e-7fb8-89d7-2f6201eabcf2
+)
+
+
+
+DATE: 2019-10-31 20:27:17
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 53_2
+    [language] => ru
+    [amount] => 6412500
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=53
+    [description] => НОВЫЙ ЗАКАЗ 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.5.400
+    [jsonParams] => {"CMS":"Bitrix 18.5.400","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=53_2&language=ru&amount=6412500&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D53&description=%D0%9D%D0%9E%D0%92%D0%AB%D0%99+%D0%97%D0%90%D0%9A%D0%90%D0%97+&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.5.400&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.5.400%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 54638f94-35fe-784f-bd0a-f95f01eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe_id/payment_ru.html?mdOrder=54638f94-35fe-784f-bd0a-f95f01eabcf2
+)
+
+
+
+DATE: 2019-10-31 21:17:36
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 55_0
+    [language] => ru
+    [amount] => 17389074
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=55
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.5.400
+    [jsonParams] => {"CMS":"Bitrix 18.5.400","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=55_0&language=ru&amount=17389074&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D55&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.5.400&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.5.400%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 7947cff9-dc12-7585-b311-515001eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe_id/payment_ru.html?mdOrder=7947cff9-dc12-7585-b311-515001eabcf2
+)
+
+
+
+DATE: 2019-10-31 21:17:55
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 55_1
+    [language] => ru
+    [amount] => 17389074
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=55
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.5.400
+    [jsonParams] => {"CMS":"Bitrix 18.5.400","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=55_1&language=ru&amount=17389074&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D55&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.5.400&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.5.400%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 7ec74322-a9c3-7038-a2cd-880201eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe_id/payment_ru.html?mdOrder=7ec74322-a9c3-7038-a2cd-880201eabcf2
+)
+
+
+
+DATE: 2019-10-31 21:26:33
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 56_0
+    [language] => ru
+    [amount] => 27265
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=56
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.5.400
+    [jsonParams] => {"CMS":"Bitrix 18.5.400","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=56_0&language=ru&amount=27265&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D56&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.5.400&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.5.400%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => f36b187e-844f-7769-99f8-58a701eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe_id/payment_ru.html?mdOrder=f36b187e-844f-7769-99f8-58a701eabcf2
+)
+
+
+
+DATE: 2019-10-31 21:26:48
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 56_1
+    [language] => ru
+    [amount] => 27265
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=56
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.5.400
+    [jsonParams] => {"CMS":"Bitrix 18.5.400","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=56_1&language=ru&amount=27265&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D56&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.5.400&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.5.400%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 83ca9ca9-052a-78f1-9581-225301eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe_id/payment_ru.html?mdOrder=83ca9ca9-052a-78f1-9581-225301eabcf2
+)
+
+
+
+DATE: 2019-10-31 21:29:07
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 57_0
+    [language] => ru
+    [amount] => 43225
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=57
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.5.400
+    [jsonParams] => {"CMS":"Bitrix 18.5.400","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=57_0&language=ru&amount=43225&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D57&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.5.400&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.5.400%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => ddb235a0-9065-76c7-8064-257f01eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe_id/payment_ru.html?mdOrder=ddb235a0-9065-76c7-8064-257f01eabcf2
+)
+
+
+
+DATE: 2019-10-31 21:47:24
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 58_0
+    [language] => ru
+    [amount] => 43225
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=58
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.5.400
+    [jsonParams] => {"CMS":"Bitrix 18.5.400","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=58_0&language=ru&amount=43225&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D58&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.5.400&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.5.400%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 2096366a-d343-777b-8e81-7e7001eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe_id/payment_ru.html?mdOrder=2096366a-d343-777b-8e81-7e7001eabcf2
+)
+
+
+
+DATE: 2019-10-31 21:51:53
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 59_0
+    [language] => ru
+    [amount] => 1536340
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=59
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.5.400
+    [jsonParams] => {"CMS":"Bitrix 18.5.400","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=59_0&language=ru&amount=1536340&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D59&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.5.400&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.5.400%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 07b2ee73-98d5-7753-905b-d38601eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe_id/payment_ru.html?mdOrder=07b2ee73-98d5-7753-905b-d38601eabcf2
+)
+
+
+
+DATE: 2019-10-31 21:52:00
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 59_1
+    [language] => ru
+    [amount] => 1536340
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=59
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.5.400
+    [jsonParams] => {"CMS":"Bitrix 18.5.400","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=59_1&language=ru&amount=1536340&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D59&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.5.400&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.5.400%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 9756a5d9-4eaa-776c-ba56-c6a401eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe_id/payment_ru.html?mdOrder=9756a5d9-4eaa-776c-ba56-c6a401eabcf2
+)
+
+
+
+DATE: 2019-11-01 18:16:12
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 63_0
+    [language] => ru
+    [amount] => 70055660
+    [returnUrl] => http://th32.ru/sale/payment/result.php?ID=63
+    [description] => 11111111
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.5.400
+    [jsonParams] => {"CMS":"Bitrix 18.5.400","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=63_0&language=ru&amount=70055660&returnUrl=http%3A%2F%2Fth32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D63&description=11111111&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.5.400&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.5.400%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 4f49a94b-94f4-787d-88f8-706e01eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe_id/payment_ru.html?mdOrder=4f49a94b-94f4-787d-88f8-706e01eabcf2
+)
+
+
+
+DATE: 2019-11-07 20:53:34
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do
+DATA: 
+Array
+(
+    [orderNumber] => 64_0
+    [language] => ru
+    [amount] => 658635
+    [returnUrl] => http://www.th32.ru/sale/payment/result.php?ID=64
+    [description] => 
+    [currency] => 643
+    [userName] => warmhouse-api
+    [password] => (3%j29Vr
+    [CMS] => Bitrix 18.5.400
+    [jsonParams] => {"CMS":"Bitrix 18.5.400","Module-Version":"3.2.4"}
+)
+
+REQUEST: 
+orderNumber=64_0&language=ru&amount=658635&returnUrl=http%3A%2F%2Fwww.th32.ru%2Fsale%2Fpayment%2Fresult.php%3FID%3D64&description=&currency=643&userName=warmhouse-api&password=%283%25j29Vr&CMS=Bitrix+18.5.400&jsonParams=%7B%22CMS%22%3A%22Bitrix+18.5.400%22%2C%22Module-Version%22%3A%223.2.4%22%7D
+RESPONSE: 
+Array
+(
+    [orderId] => 539749e3-d900-76be-bdda-b12b01eabcf2
+    [formUrl] => https://securepayments.sberbank.ru/payment/merchants/sbersafe_id/payment_ru.html?mdOrder=539749e3-d900-76be-bdda-b12b01eabcf2
+)
+
+
+

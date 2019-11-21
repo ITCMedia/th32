@@ -1,0 +1,3 @@
+<?
+define("SM_VERSION","18.5.400");
+define("SM_VERSION_DATE","2019-04-26 14:15:00"); // YYYY-MM-DD HH:MI:SS

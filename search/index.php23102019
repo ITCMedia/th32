@@ -1,0 +1,89 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php");
+$APPLICATION->SetTitle("Поиск");
+?><? $APPLICATION->IncludeComponent(
+	"bitrix:catalog.search", 
+	"page-search", 
+	array(
+		"ACTION_VARIABLE" => "action",
+		"AJAX_MODE" => "N",
+		"AJAX_OPTION_ADDITIONAL" => "",
+		"AJAX_OPTION_HISTORY" => "N",
+		"AJAX_OPTION_JUMP" => "N",
+		"AJAX_OPTION_STYLE" => "Y",
+		"BASKET_URL" => "/cart/",
+		"CACHE_TIME" => "36000000",
+		"CACHE_TYPE" => "A",
+		"CHECK_DATES" => "N",
+		"CONVERT_CURRENCY" => "N",
+		"DETAIL_URL" => "",
+		"DISPLAY_BOTTOM_PAGER" => "Y",
+		"DISPLAY_COMPARE" => "N",
+		"DISPLAY_TOP_PAGER" => "N",
+		"ELEMENT_SORT_FIELD" => "sort",
+		"ELEMENT_SORT_FIELD2" => "id",
+		"ELEMENT_SORT_ORDER" => "asc",
+		"ELEMENT_SORT_ORDER2" => "desc",
+		"HIDE_NOT_AVAILABLE" => "Y",
+		"HIDE_NOT_AVAILABLE_OFFERS" => "N",
+		"IBLOCK_ID" => "14",
+		"IBLOCK_TYPE" => "catalog",
+		"LINE_ELEMENT_COUNT" => "3",
+		"NO_WORD_LOGIC" => "N",
+		"OFFERS_LIMIT" => "5",
+		"PAGER_DESC_NUMBERING" => "N",
+		"PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
+		"PAGER_SHOW_ALL" => "N",
+		"PAGER_SHOW_ALWAYS" => "N",
+		"PAGER_TEMPLATE" => ".default",
+		"PAGER_TITLE" => "Товары",
+		"PAGE_ELEMENT_COUNT" => "30",
+		"PRICE_CODE" => array(
+			0 => "Цена РРЦ",
+		),
+		"PRICE_VAT_INCLUDE" => "Y",
+		"PRODUCT_ID_VARIABLE" => "id",
+		"PRODUCT_PROPERTIES" => array(
+		),
+		"PRODUCT_PROPS_VARIABLE" => "prop",
+		"PRODUCT_QUANTITY_VARIABLE" => "quantity",
+		"PROPERTY_CODE" => array(
+			0 => "",
+			1 => "ARTICLE",
+			2 => "",
+		),
+		"RESTART" => "Y",
+		"SECTION_ID_VARIABLE" => "SECTION_ID",
+		"SECTION_URL" => "",
+		"SHOW_PRICE_COUNT" => "1",
+		"USE_LANGUAGE_GUESS" => "Y",
+		"USE_PRICE_COUNT" => "N",
+		"USE_PRODUCT_QUANTITY" => "N",
+		"COMPONENT_TEMPLATE" => "page-search",
+		"COMPOSITE_FRAME_MODE" => "A",
+		"COMPOSITE_FRAME_TYPE" => "AUTO"
+	),
+	false
+); ?>
+
+    <div style="background: initial !important; border: initial !important; border-radius: initial !important; border-spacing: initial !important; border-collapse: initial !important; direction: ltr !important; flex-direction: initial !important; font-weight: initial !important; height: initial !important; letter-spacing: initial !important; min-width: initial !important; max-width: initial !important; min-height: initial !important; max-height: initial !important; margin: auto !important; outline: initial !important; padding: initial !important; position: absolute; table-layout: initial !important; text-align: initial !important; text-shadow: initial !important; width: initial !important; word-break: initial !important; word-spacing: initial !important; overflow-wrap: initial !important; box-sizing: initial !important; display: initial !important; color: inherit !important; font-size: 13px !important; font-family: X-LocaleSpecific, sans-serif, Tahoma, Helvetica !important; line-height: 13px !important; vertical-align: top !important; white-space: inherit !important; left: 124px; top: 35px; opacity: 0.15;"
+         id="s3gt_translate_tooltip_mini" class="s3gt_translate_tooltip_mini_box" is_mini="true">
+        <div id="s3gt_translate_tooltip_mini_logo" class="s3gt_translate_tooltip_mini"
+             title="Перевести выделенный фрагмент">
+        </div>
+        <div id="s3gt_translate_tooltip_mini_sound" class="s3gt_translate_tooltip_mini" title="Прослушать"
+             title_play="Прослушать" title_stop="Остановить">
+        </div>
+        <div id="s3gt_translate_tooltip_mini_copy" class="s3gt_translate_tooltip_mini"
+             title="Скопировать текст в буфер обмена">
+        </div>
+    </div>
+    <style>
+        .header-nav .menu li:first-child ul {
+            display: none;
+        }
+        .header-nav .menu li:first-child:hover ul {
+            display: block;
+        }
+    </style>
+<? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php"); ?>

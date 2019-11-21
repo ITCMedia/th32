@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Гарантия", 
+		"/poleznaya-informatsiya/garantiya/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Сертификаты", 
+		"/poleznaya-informatsiya/sertifikaty/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Техническая документация", 
+		"/poleznaya-informatsiya/tekhnicheskaya-dokumentatsiya/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Статьи", 
+		"/poleznaya-informatsiya/stati/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Видеоролики", 
+		"/poleznaya-informatsiya/videoroliki/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Семинары", 
+		"/poleznaya-informatsiya/seminary/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

@@ -1,0 +1,27 @@
+/**
+ * Bitrix Messenger
+ * Event names constants
+ *
+ * @package bitrix
+ * @subpackage im
+ * @copyright 2001-2019 Bitrix
+ */
+
+const EventType = Object.freeze({
+	dialog:
+	{
+		scrollToBottom: 'EventType.dialog.scrollToBottom',
+		requestHistoryResult: 'EventType.dialog.requestHistoryResult',
+		requestUnreadResult: 'EventType.dialog.requestUnreadResult',
+	},
+	textarea:
+	{
+		insertText: 'EventType.textarea.insertText',
+		focus: 'EventType.textarea.focus',
+		blur: 'EventType.textarea.blur',
+	}
+});
+
+export {
+	EventType
+};
